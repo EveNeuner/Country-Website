@@ -3,7 +3,8 @@ h1 {
 }
 
 p {
-
+    color: rgb(2, 54, 2);
+    text-align: center;
 }
 
 
@@ -25,5 +26,15 @@ p {
 }
 
 .navi>li>a:hover {
-    background-color: green;
+    background-color: rgb(17, 165, 17);
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+img {
+    margin: auto;
+    padding-left: 40%;
+    padding-right: 50%;
 }
